@@ -1,0 +1,15 @@
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExplore.exe
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExplore.deps.json
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExplore.runtimeconfig.json
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExplore.dll
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilderExplore.pdb
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExplore.csproj.AssemblyReference.cache
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExplore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExplore.AssemblyInfoInputs.cache
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExplore.AssemblyInfo.cs
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExplore.csproj.CoreCompileInputs.cache
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExplore.dll
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\refint\StringBuilderExplore.dll
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExplore.pdb
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilderExplore.genruntimeconfig.cache
+C:\Users\Ion\Desktop\C# Course\StringBuilder\StringBuilder\obj\Debug\net6.0\ref\StringBuilderExplore.dll

@@ -1,0 +1,15 @@
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\net6.0\ReferenceValueTypes.exe
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\net6.0\ReferenceValueTypes.deps.json
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\net6.0\ReferenceValueTypes.runtimeconfig.json
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\net6.0\ReferenceValueTypes.dll
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\bin\Debug\net6.0\ReferenceValueTypes.pdb
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\ReferenceValueTypes.csproj.AssemblyReference.cache
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\ReferenceValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\ReferenceValueTypes.AssemblyInfoInputs.cache
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\ReferenceValueTypes.AssemblyInfo.cs
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\ReferenceValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\ReferenceValueTypes.dll
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\refint\ReferenceValueTypes.dll
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\ReferenceValueTypes.pdb
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\ReferenceValueTypes.genruntimeconfig.cache
+C:\Users\Ion\Desktop\C# Course\ReferenceValueTypes\ReferenceValueTypes\obj\Debug\net6.0\ref\ReferenceValueTypes.dll
